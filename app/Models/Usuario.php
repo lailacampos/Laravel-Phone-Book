@@ -15,6 +15,7 @@ class Usuario extends Model
      * @var array
      */
     protected $fillable = ['nome'];
+    protected $table = 'usuarios';
 
     /**
      * @return \Illuminate\Database\Eloquent\Relations\HasMany

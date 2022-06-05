@@ -15,6 +15,7 @@ class Telefone extends Model
     /**
      * @var array
      */
+    protected $table = 'telefones';
     protected $fillable = ['id_usuario', 'numero'];
 
     /**
