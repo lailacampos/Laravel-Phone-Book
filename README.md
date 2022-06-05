@@ -13,7 +13,7 @@ This is a simple Phone Book application using:
 <br>
 
 <p>This application is deployed to <a href="https://www.heroku.com/" >Heroku</a></p>
-<p>You can find it <a href="#">here</a></p>
+<p>You can find it <a href="http://laravel-phone-book.herokuapp.com/">here</a></p>
 
 <hr>
 
